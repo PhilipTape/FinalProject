@@ -1,22 +1,38 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
+      "name": "Kai Samarukai",
+      "rate": "★★★EXCELLENT!",
+      "fastfood": [
+        "McDonalds",
+        "PizzaHut",
+        "KFC"
       ],
-      "gender": "male",
+      "gender": "♂ Male",
+      "suggestion": "Good Job!",
+      "age": "18-25",
+      "date": "",
+      "mm": "October",
+      "dd": 17,
+      "yy": 2016,
       "id": 1
     },
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
+      "name": "Martin Tabazarao",
+      "rate": "★★VERY GOOD",
+      "fastfood": [
+        "McDonalds",
+        "PizzaHut",
+        "KFC"
       ],
-      "gender": "male",
-      "id": 4
+      "gender": "♂ Male",
+      "suggestion": "Good Job ! :)",
+      "age": "35-54",
+      "date": "",
+      "mm": "November",
+      "dd": 11,
+      "yy": 2016,
+      "id": 2
     }
   ]
 }
